@@ -1,0 +1,6 @@
+*.byte
+*.orig
+_build/*
+*.swp
+.DS_Store
+*.native
